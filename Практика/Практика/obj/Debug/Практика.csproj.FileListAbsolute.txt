@@ -1,0 +1,13 @@
+C:\Users\ЛиВ\source\repos\Практика\Практика\bin\Debug\Практика.exe.config
+C:\Users\ЛиВ\source\repos\Практика\Практика\bin\Debug\Практика.exe
+C:\Users\ЛиВ\source\repos\Практика\Практика\bin\Debug\Практика.pdb
+C:\Users\ЛиВ\source\repos\Практика\Практика\bin\Debug\EntityFramework.dll
+C:\Users\ЛиВ\source\repos\Практика\Практика\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ЛиВ\source\repos\Практика\Практика\bin\Debug\EntityFramework.xml
+C:\Users\ЛиВ\source\repos\Практика\Практика\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ЛиВ\source\repos\Практика\Практика\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ЛиВ\source\repos\Практика\Практика\obj\Debug\Практика.csprojAssemblyReference.cache
+C:\Users\ЛиВ\source\repos\Практика\Практика\obj\Debug\Практика.csproj.CoreCompileInputs.cache
+C:\Users\ЛиВ\source\repos\Практика\Практика\obj\Debug\Практика.csproj.CopyComplete
+C:\Users\ЛиВ\source\repos\Практика\Практика\obj\Debug\Практика.exe
+C:\Users\ЛиВ\source\repos\Практика\Практика\obj\Debug\Практика.pdb
